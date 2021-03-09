@@ -1,3 +1,3 @@
-#LIVE URL
+# LIVE URL
 
 https://react-movie-hub.netlify.app
